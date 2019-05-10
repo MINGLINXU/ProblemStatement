@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProblemStatement</string>
+    <string name="SmokingTable">Smoking table</string>
+    <string name="NonSmokingTable">Non-Smoking table</string>
+    <string name="EnterName" />
+    <string name="enterPhoneNum"/>
+    <string name="SizeOfGroup" />
+    <string name="Confirm">Confrim</string>
+    <string name="Reset">Reset</string>
+</resources>
